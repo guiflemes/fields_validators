@@ -6,7 +6,7 @@ from .regex_validator import RegexValidator
 from .type_validator import TypeValidator
 from .string_validator import StrValidator
 
-__version__ = '0.1.2'
+__version__ = '0.1.3'
 
 __all__ = [
     "CPFValidator",
