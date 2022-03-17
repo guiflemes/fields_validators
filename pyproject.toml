@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fields_validators"
-version = "0.1.3"
+version = "0.1.4"
 description = ""
 authors = ["guilherme <guilherme.1995lemes@gmail.com>"]
 
